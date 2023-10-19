@@ -1,4 +1,4 @@
-# CaCPP_Review
+# SDCaCPP_Review
 # SDCACPP Course Weekly Notes
 
 Welcome to my repository of weekly notes for the SDCACPP (Software Development with C and CPP) course. This repository contains my notes from each week of the course, along with relevant resources and study materials.
